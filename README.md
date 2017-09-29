@@ -1,2 +1,1 @@
-# esp32
-esp32 projects
+Esp32 example code and projects in Micropython
